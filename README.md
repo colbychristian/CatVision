@@ -4,7 +4,6 @@ Cat_Vision V1.0
 
 Contains:
   Jupyter Notebook
-  Image Data of cats and random images
 
 Description:
   Classify an image as a cat or not a cat
